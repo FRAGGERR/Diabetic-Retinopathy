@@ -28,6 +28,11 @@ Diabetic Retinopathy (DR) is a severe complication of diabetes, often leading to
 
 The dataset used for this research is sourced from Kaggle, containing diverse images of retinal scans. The dataset is preprocessed and split into training, validation, and test sets to ensure robust model evaluation.
 
+You can download the dataset using the following Kaggle API key:
+```
+kaggle datasets download -d sachinkumar413/diabetic-retinopathy-dataset
+```
+
 ## Models
 
 We have explored various CNN architectures, including:
