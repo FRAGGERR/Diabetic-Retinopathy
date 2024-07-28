@@ -65,8 +65,9 @@ pip install -r requirements.txt
 To train and evaluate the models, follow these steps:
 
 1. Clone the repository:
+   `git clone`
     ```bash
-    `git clone` https://github.com/FRAGGERR/Diabetic-Retinopathy.git
+    https://github.com/FRAGGERR/Diabetic-Retinopathy.git
     ```
 2. Navigate to the project directory:
     ```bash
